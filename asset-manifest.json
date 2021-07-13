@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "//n1thun.github.io/nithun-personal-web/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "//n1thun.github.io/nithun-personal-web/static/js/main.6d463343.chunk.js",
-    "main.js.map": "//n1thun.github.io/nithun-personal-web/static/js/main.6d463343.chunk.js.map",
-    "runtime-main.js": "//n1thun.github.io/nithun-personal-web/static/js/runtime-main.c59fcc88.js",
-    "runtime-main.js.map": "//n1thun.github.io/nithun-personal-web/static/js/runtime-main.c59fcc88.js.map",
-    "static/js/2.496ac3f5.chunk.js": "//n1thun.github.io/nithun-personal-web/static/js/2.496ac3f5.chunk.js",
-    "static/js/2.496ac3f5.chunk.js.map": "//n1thun.github.io/nithun-personal-web/static/js/2.496ac3f5.chunk.js.map",
-    "static/js/3.8fca53dd.chunk.js": "//n1thun.github.io/nithun-personal-web/static/js/3.8fca53dd.chunk.js",
-    "static/js/3.8fca53dd.chunk.js.map": "//n1thun.github.io/nithun-personal-web/static/js/3.8fca53dd.chunk.js.map",
-    "index.html": "//n1thun.github.io/nithun-personal-web/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "//n1thun.github.io/nithun-personal-web/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.496ac3f5.chunk.js.LICENSE.txt": "//n1thun.github.io/nithun-personal-web/static/js/2.496ac3f5.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "//n1thun.github.io/nithun-personal-web/static/media/logo.6ce24c58.svg"
+    "main.css": "/nithun-personal-web/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/nithun-personal-web/static/js/main.6d463343.chunk.js",
+    "main.js.map": "/nithun-personal-web/static/js/main.6d463343.chunk.js.map",
+    "runtime-main.js": "/nithun-personal-web/static/js/runtime-main.8ea54896.js",
+    "runtime-main.js.map": "/nithun-personal-web/static/js/runtime-main.8ea54896.js.map",
+    "static/js/2.496ac3f5.chunk.js": "/nithun-personal-web/static/js/2.496ac3f5.chunk.js",
+    "static/js/2.496ac3f5.chunk.js.map": "/nithun-personal-web/static/js/2.496ac3f5.chunk.js.map",
+    "static/js/3.8fca53dd.chunk.js": "/nithun-personal-web/static/js/3.8fca53dd.chunk.js",
+    "static/js/3.8fca53dd.chunk.js.map": "/nithun-personal-web/static/js/3.8fca53dd.chunk.js.map",
+    "index.html": "/nithun-personal-web/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/nithun-personal-web/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.496ac3f5.chunk.js.LICENSE.txt": "/nithun-personal-web/static/js/2.496ac3f5.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/nithun-personal-web/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c59fcc88.js",
+    "static/js/runtime-main.8ea54896.js",
     "static/js/2.496ac3f5.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.6d463343.chunk.js"
